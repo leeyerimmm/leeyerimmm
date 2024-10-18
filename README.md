@@ -41,14 +41,30 @@
 
 <h2 align="center">💼 Projects</h2>
 <p>
-  <a href="https://github.com/leeyerimmm/lottoProj">lottoProj</a>: 로또 추첨 포트폴리오<br>
-  <a href="https://github.com/leeyerimmm/mykakao">mykakao</a>: 폴더 기능이 추가된 카카오톡 클론<br>
-  <a href="https://github.com/leeyerimmm/My-Real-Trip">My-Real-Trip</a>: 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨<br>
-  <a href="https://github.com/leeyerimmm/public-API">public-API</a>: OpenWeather API와 반응형 웹 디자인을 활용한 주말농장을 하는 사람들에게 유용한 정보 제공 🌱<br>
-  <a href="https://github.com/leeyerimmm/chat-GPT">chat-GPT</a>: OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙<br>
-  <a href="https://github.com/leeyerimmm/HappyBean">HappyBean</a>: 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
+  <a href="https://github.com/leeyerimmm/lottoProj">
+    <img src="https://img.shields.io/badge/-lottoProj-blue?style=flat-square&logo=github" />
+  </a>: 로또 추첨 포트폴리오 <br><br>
+  
+  <a href="https://github.com/leeyerimmm/mykakao">
+    <img src="https://img.shields.io/badge/-mykakao-orange?style=flat-square&logo=kakao" />
+  </a>: 폴더 기능이 추가된 카카오톡 클론 <br><br>
+  
+  <a href="https://github.com/leeyerimmm/My-Real-Trip">
+    <img src="https://img.shields.io/badge/-My%20Real%20Trip-blueviolet?style=flat-square&logo=airplane" />
+  </a>: 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨ <br><br>
+  
+  <a href="https://github.com/leeyerimmm/public-API">
+    <img src="https://img.shields.io/badge/-public%20API-green?style=flat-square&logo=cloud" />
+  </a>: OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱 <br><br>
+  
+  <a href="https://github.com/leeyerimmm/chat-GPT">
+    <img src="https://img.shields.io/badge/-chat%20GPT-blue?style=flat-square&logo=openai" />
+  </a>: OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙 <br><br>
+  
+  <a href="https://github.com/leeyerimmm/HappyBean">
+    <img src="https://img.shields.io/badge/-HappyBean-green?style=flat-square&logo=heart" />
+  </a>: 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
 </p>
-
 
 <br>
 
