@@ -40,7 +40,7 @@
 
 <br>
 
-<h2 align="center">💪 Projects >💪</h2>
+<h2 align="center">💪 Projects 💪</h2>
 <div align="center" style="width: 80%; margin: 0 auto;">
   <p align="left">
     <a href="https://github.com/leeyerimmm/mykakao">
