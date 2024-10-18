@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20LeeYerim%20Github!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20LeeYerim%20&fontSize=70" />
 </p>
 
 <h2 align="center">🙌 Introduction</h2>
@@ -30,18 +30,6 @@
 
 <br>
 
-<h2 align="center">💼 Projects</h2>
-<ul align="center">
-  <li><a href="https://github.com/leeyerimmm/lottoProj">lottoProj</a>: 로또 추첨 포트폴리오</li>
-  <li><a href="https://github.com/leeyerimmm/mykakao">mykakao</a>: 폴더 기능이 추가된 카카오톡 클론</li>
-  <li><a href="https://github.com/leeyerimmm/My-Real-Trip">My-Real-Trip</a>: 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨</li>
-  <li><a href="https://github.com/leeyerimmm/public-API">public-API</a>: OpenWeather API와 반응형 웹 디자인을 활용한 주말농장을 하는 사람들에게 유용한 정보 제공 🌱</li>
-  <li><a href="https://github.com/leeyerimmm/chat-GPT">chat-GPT</a>: OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙</li>
-  <li><a href="https://github.com/leeyerimmm/HappyBean">HappyBean</a>: 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿</li>
-</ul>
-
-<br>
-
 <h2 align="center">📘 Studying</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
@@ -50,3 +38,19 @@
 </p>
 
 <br>
+
+<h2 align="center">💼 Projects</h2>
+<p>
+  <a href="https://github.com/leeyerimmm/lottoProj">lottoProj</a>: 로또 추첨 포트폴리오<br>
+  <a href="https://github.com/leeyerimmm/mykakao">mykakao</a>: 폴더 기능이 추가된 카카오톡 클론<br>
+  <a href="https://github.com/leeyerimmm/My-Real-Trip">My-Real-Trip</a>: 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨<br>
+  <a href="https://github.com/leeyerimmm/public-API">public-API</a>: OpenWeather API와 반응형 웹 디자인을 활용한 주말농장을 하는 사람들에게 유용한 정보 제공 🌱<br>
+  <a href="https://github.com/leeyerimmm/chat-GPT">chat-GPT</a>: OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙<br>
+  <a href="https://github.com/leeyerimmm/HappyBean">HappyBean</a>: 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
+</p>
+
+
+<br>
+
+
+
