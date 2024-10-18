@@ -5,7 +5,17 @@
 
 
 <h2 align="center">🙌 Introduction 🙌</h2>
-<p align="center">I am a passionate front-end developer who loves building web applications.</p>
+
+<p align="center">
+안녕하세요! 신입 프론트엔드 개발자를 꿈꾸는 이예림입니다.
+</p>
+
+<ul>
+  <li>✔️ 새로운 것에 도전하고 끊임없이 배우는 것을 좋아합니다.</li>
+  <li>✔️ 사용자 경험(UX)을 최우선으로 생각하며, 편리한 서비스를 제공하는 것을 목표로 합니다.</li>
+  <li>✔️ 문제 해결을 위해 끊임없이 분석하고, 최적의 해결책을 찾는 것을 중요하게 여깁니다.</li>
+  <li>✔️ 소통과 협업을 통해 팀 프로젝트에서 갈등을 해결하고 목표를 달성하는 데 기여했습니다.</li>
+</ul>
 
 <br>
 
