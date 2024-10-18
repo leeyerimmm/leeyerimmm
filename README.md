@@ -9,7 +9,7 @@
 <p align="center">✔️ 새로운 것에 도전하고 끊임없이 배우는 것을 좋아합니다.</p>
 <p align="center">✔️ 문제 해결을 위해 끊임없이 분석하고, 최적의 해결책을 찾는 것을 중요하게 여깁니다.</p>
 <p align="center">✔️ 사용자 경험(UX)을 최우선으로 생각하며, 편리한 서비스를 제공하는 것을 목표로 합니다.</p>
-<p align="center">✔️ 소통과 협업을 통해 팀 프로젝트에서 갈등을 해결하고 목표를 달성하는 데 기여했습니다.</p>
+<p align="center">✔️ 소통과 협업을 통해 팀 프로젝트에서 목표를 달성하는 데 기여했습니다.</p>
 
 <br>
 
@@ -50,7 +50,7 @@
   <p align="left">
     <a href="https://github.com/leeyerimmm/mykakao">
       <img src="https://img.shields.io/badge/mykakao-FFCD00?style=flat-square&logo=kakao" />
-    </a> : 폴더 기능이 추가된 카카오톡 💬📂
+    </a> : '폴더' 기능이 추가된 카카오톡 💬📂
   </p>
 
   <p align="left">
