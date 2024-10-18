@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Hello,%20I'm%20LeeYerim&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=Hello,%20I'm%20LeeYerim&fontSize=70" />
 </p>
+
 
 <h2 align="center">🙌 Introduction 🙌</h2>
 <p align="center">I am a passionate front-end developer who loves building web applications.</p>
