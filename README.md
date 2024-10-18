@@ -41,7 +41,7 @@
 <br>
 
 <h2 align="center">💪 Projects >💪</h2>
-<div align="center" style="width: 80%; margin: 0 auto;">
+<div align="center" style="width: 60%; margin: 0 auto;">
   <p align="left">
     <a href="https://github.com/leeyerimmm/mykakao">
       <img src="https://img.shields.io/badge/mykakao-FFCD00?style=flat-square&logo=kakao" />
