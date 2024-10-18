@@ -40,13 +40,29 @@
 <br>
 
 <h2 align="center">💪 Projects >💪</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/mykakao-FFCD00?style=flat-square&logo=kakao" /> : 폴더 기능이 추가된 카카오톡 클론 <br><br>
-  <img src="https://img.shields.io/badge/My%20Real%20Trip-764ABC?style=flat-square&logo=airplane" /> : 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨ <br><br>
-  <img src="https://img.shields.io/badge/public%20API-2E8B57?style=flat-square&logo=cloud" /> : OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱 <br><br>
-  <img src="https://img.shields.io/badge/chat%20GPT-00AEEF?style=flat-square&logo=openai" /> : OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙 <br><br>
-  <img src="https://img.shields.io/badge/HappyBean-7BB661?style=flat-square&logo=leaf" /> : 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/mykakao-FFCD00?style=flat-square&logo=kakao" /></td>
+    <td>: 폴더 기능이 추가된 카카오톡 클론</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/My%20Real%20Trip-764ABC?style=flat-square&logo=airplane" /></td>
+    <td>: 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/public%20API-2E8B57?style=flat-square&logo=cloud" /></td>
+    <td>: OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/chat%20GPT-00AEEF?style=flat-square&logo=openai" /></td>
+    <td>: OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HappyBean-7BB661?style=flat-square&logo=leaf" /></td>
+    <td>: 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿</td>
+  </tr>
+</table>
+
 
 <br>
 
