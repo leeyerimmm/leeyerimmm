@@ -41,20 +41,20 @@
 <br>
 
 <h2 align="center">💪 Projects >💪</h2>
-<div>
-  <p>
+<div align="center" style="width: 80%; margin: 0 auto;">
+  <p align="left">
     <a href="https://github.com/leeyerimmm/mykakao">
       <img src="https://img.shields.io/badge/mykakao-FFCD00?style=flat-square&logo=kakao" />
-    </a> : 폴더 기능이 추가된 카카오톡 클론
+    </a> : 폴더 기능이 추가된 카카오톡 💬📂
   </p>
 
-  <p>
+  <p align="left">
     <a href="https://github.com/leeyerimmm/My-Real-Trip">
       <img src="https://img.shields.io/badge/My%20Real%20Trip-764ABC?style=flat-square&logo=airplane" />
     </a> : 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨
   </p>
 
-  <p>
+  <p align="left">
     <a href="https://github.com/leeyerimmm/public-API">
       <img src="https://img.shields.io/badge/public%20API-2E8B57?style=flat-square&logo=cloud" />
     </a> : OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱
@@ -74,5 +74,4 @@
 </div>
 
 <br>
-
 
