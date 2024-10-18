@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20LeeYerim%20&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA4FF&height=200&section=header&text=Hello,%20I'm%20LeeYerim&fontSize=70" />
 </p>
 
-<h2 align="center">🙌 Introduction</h2>
+<h2 align="center">🙌 Introduction 🙌</h2>
 <p align="center">I am a passionate front-end developer who loves building web applications.</p>
 
 <br>
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">🍀 Skills 🍀</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" />
@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠️ Tools 🛠️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2 align="center">📘 Studying</h2>
+<h2 align="center">✏️ Studying ✏️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
@@ -39,27 +39,13 @@
 
 <br>
 
-<h2 align="center">💼 Projects</h2>
+<h2 align="center">💪 Projects >💪</h2>
 <p>
-  <a href="https://github.com/leeyerimmm/mykakao">
-    <img src="https://img.shields.io/badge/-mykakao-orange?style=flat-square&logo=kakao" />
-  </a>: 폴더 기능이 추가된 카카오톡 클론 <br><br>
-  
-  <a href="https://github.com/leeyerimmm/My-Real-Trip">
-    <img src="https://img.shields.io/badge/-My%20Real%20Trip-blueviolet?style=flat-square&logo=airplane" />
-  </a>: 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨ <br><br>
-  
-  <a href="https://github.com/leeyerimmm/public-API">
-    <img src="https://img.shields.io/badge/-public%20API-green?style=flat-square&logo=cloud" />
-  </a>: OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱 <br><br>
-  
-  <a href="https://github.com/leeyerimmm/chat-GPT">
-    <img src="https://img.shields.io/badge/-chat%20GPT-blue?style=flat-square&logo=openai" />
-  </a>: OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙 <br><br>
-  
-  <a href="https://github.com/leeyerimmm/HappyBean">
-    <img src="https://img.shields.io/badge/-HappyBean-green?style=flat-square&logo=heart" />
-  </a>: 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
+<img src="https://img.shields.io/badge/mykakao-FFCD00?style=flat-square&logo=kakao" /> : 폴더 기능이 추가된 카카오톡 클론 <br><br>
+  <img src="https://img.shields.io/badge/My%20Real%20Trip-764ABC?style=flat-square&logo=airplane" /> : 마이리얼트립 사이트를 내 방식대로 리뉴얼 ✨ <br><br>
+  <img src="https://img.shields.io/badge/public%20API-2E8B57?style=flat-square&logo=cloud" /> : OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱 <br><br>
+  <img src="https://img.shields.io/badge/chat%20GPT-00AEEF?style=flat-square&logo=openai" /> : OpenAI를 활용하여 리뉴얼한 나만의 ChatGPT 💙 <br><br>
+  <img src="https://img.shields.io/badge/HappyBean-7BB661?style=flat-square&logo=leaf" /> : 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
 </p>
 
 <br>
