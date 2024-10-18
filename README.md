@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DFADE0&height=200&section=header&text=Hello,%20I'm%20LeeYerim&fontSize=70&fontWeight=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DFADE0&height=200&section=header&text=Hello,%20I'm%20LeeYerim&fontSize=60" />
 </p>
+
 
 
 <h2 align="center">🙌 Introduction 🙌</h2>
