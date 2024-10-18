@@ -41,10 +41,6 @@
 
 <h2 align="center">💼 Projects</h2>
 <p>
-  <a href="https://github.com/leeyerimmm/lottoProj">
-    <img src="https://img.shields.io/badge/-lottoProj-blue?style=flat-square&logo=github" />
-  </a>: 로또 추첨 포트폴리오 <br><br>
-  
   <a href="https://github.com/leeyerimmm/mykakao">
     <img src="https://img.shields.io/badge/-mykakao-orange?style=flat-square&logo=kakao" />
   </a>: 폴더 기능이 추가된 카카오톡 클론 <br><br>
