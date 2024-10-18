@@ -69,7 +69,7 @@
   <p align="left">
     <a href="https://github.com/leeyerimmm/HappyBean">
       <img src="https://img.shields.io/badge/HappyBean-7BB661?style=flat-square&logo=leaf" />
-    </a> : 프론트엔드와 백엔드의 협작 기부사이트 HappyBean 🌿
+    </a> : 프론트엔드와 백엔드의 합작 기부사이트 HappyBean 🌿
   </p>
 </div>
 
