@@ -57,7 +57,7 @@
   <p align="left">
     <a href="https://github.com/leeyerimmm/public-API">
       <img src="https://img.shields.io/badge/public%20API-2E8B57?style=flat-square&logo=cloud" />
-    </a> : OpenWeather API와 반응형 웹 디자인을 활용한 주말농장 정보 제공 🌱
+    </a> : OpenWeather API와 반응형 웹 디자인을 활용해 주말농장을 하는 사람들에게 유용한 정보를 주는 앱🌱
   </p>
 
   <p align="left">
