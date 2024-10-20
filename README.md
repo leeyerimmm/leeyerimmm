@@ -36,14 +36,6 @@
 
 <br>
 
-<h2 align="center">✏️ Studying ✏️</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square" />
-</p>
-
-<br>
 
 <h2 align="center">💪 Projects 💪</h2>
 <div align="center" style="width: 80%; margin: 0 auto;">
