@@ -4,7 +4,7 @@
 
 <h2 align="center">🙌 Introduction</h2>
 
-<p align="center">안녕하세요! 신입 프론트엔드 개발자를 꿈꾸는 이예림입니다.</p>
+<p align="center">안녕하세요! 신입 웹퍼블리셔를 꿈꾸는 이예림입니다.</p>
 
 <p align="center">✔️ 새로운 것에 도전하고 끊임없이 배우는 것을 좋아합니다.</p>
 <p align="center">✔️ 문제 해결을 위해 끊임없이 분석하고, 최적의 해결책을 찾는 것을 중요하게 여깁니다.</p>
